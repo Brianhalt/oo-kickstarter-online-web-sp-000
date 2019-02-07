@@ -1,6 +1,6 @@
 require 'pry'
 
-Class Backer
+class Backer
 
   attr_reader :backed_projects, :name
 
